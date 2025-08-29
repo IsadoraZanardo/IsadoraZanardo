@@ -1,4 +1,11 @@
-![LINGUAGENS](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraZanardo&layout=compact&theme=dracula)
+<div align="center">
+  <h3>✨ Hello, World! I'm Isadora Zanardo ✨</h3>
+
+  <h5>Análise e Desenvolvimento de Sistemas | Rede IPRAN<h5>
+  
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraZanardo&layout=compact&bg_color=000000&title_color=FF69B4&text_color=F8BBD0&icon_color=FF80AB)
+</div>
+
 
 <!--
 **IsadoraZanardo/IsadoraZanardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
