@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![COMMITS](https://github-readme-stats.vercel.app/api?username=IsadoraZanardo&show_icons=true&theme=dracula)
+![LINGUAGENS](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraZanardo&layout=compact&theme=dracula)
+
 <!--
 **IsadoraZanardo/IsadoraZanardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
