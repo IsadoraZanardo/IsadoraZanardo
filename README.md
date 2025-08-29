@@ -1,6 +1,3 @@
-## Hi there 👋
-
-![COMMITS](https://github-readme-stats.vercel.app/api?username=IsadoraZanardo&show_icons=true&theme=dracula)
 ![LINGUAGENS](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraZanardo&layout=compact&theme=dracula)
 
 <!--
