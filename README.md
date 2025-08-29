@@ -1,9 +1,10 @@
 <div align="center">
-  <h3>✨ Hello, World! I'm Isadora Zanardo ✨</h3>
+  <h2>✨ Hello, World! I'm Isadora Zanardo ✨</h2>
 
-  <h5>Análise e Desenvolvimento de Sistemas | Rede IPRAN<h5>
+  <h3>Análise e Desenvolvimento de Sistemas | Rede IPRAN<h3>
   
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraZanardo&layout=compact&bg_color=000000&title_color=FF69B4&text_color=F8BBD0&icon_color=FF80AB)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraZanardo&layout=compact&bg_color=000000&title_color=FF69B4&text_color=F8BBD0&icon_color=FF80AB&size_weight=0.5&count_weight=0.5" width="550" height="250" alt="Top Languages" />
+
 </div>
 
 
