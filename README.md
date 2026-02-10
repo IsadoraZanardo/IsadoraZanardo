@@ -1,7 +1,7 @@
 <div align="left">
   <h3>✨ Hello, World! I'm Isadora Zanardo ✨</h3>
 
-  <h4>2/4 Análise e Desenvolvimento de Sistemas | Trainee Rede IPRAN</h4>
+  <h4>3/4 Análise e Desenvolvimento de Sistemas | IT Administrative Assistant
 
 <br> [![LinkedIn](https://img.shields.io/badge/🔗LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-zanardo/)<!-- CARD LINKDIN -->
 
